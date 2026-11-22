@@ -1,0 +1,5 @@
+Upstream: ItsNotRexed/Leonida
+Revision: b0befb4b88d6640354940117448ea19d52507584
+Preserved files: tests/test_bcpack.py, tools/bcpack.py, tools/bcpack_tables.py, tools/bcpack_tables_bptc.py and LICENSE.
+These are verbatim Git blobs from the upstream revision. Retain the upstream license and file notices.
+Run from this directory with Python 3: python -IB tests/test_bcpack.py -v
